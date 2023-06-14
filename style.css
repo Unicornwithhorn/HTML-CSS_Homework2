@@ -1,0 +1,32 @@
+.information_right {
+  width: 400px; 
+  background: #ccc;
+  padding: 10px;
+  border: solid 5px rgb(8, 22, 81); 
+  float: right;
+  font-size: 1.5em;
+  color: blue;
+  face="Courier"
+}
+.information_text {
+  width: 1000px; 
+  background: #128;
+  padding: 10px;
+  border: solid 1px rgb(112, 122, 21); 
+  font-size: 1.5em;
+  color: blue;
+  face="Courier"
+}
+.pictures {
+  width: 400px; 
+  padding: 30px;
+  border: solid 5px rgb(0, 247, 66); 
+  font-size: 1.5em;
+  background: #54f0aa;
+  color: blue;
+  face: "Courier"
+  /* margin: 10px; */
+}
+.right {
+  float: right;
+}
